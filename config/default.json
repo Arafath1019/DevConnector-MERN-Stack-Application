@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://arafath1019:12345@devconnector.smmim.mongodb.net/DevConnector?retryWrites=true&w=majority"
+}
